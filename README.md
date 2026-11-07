@@ -139,31 +139,9 @@ Business contact information is included for the purpose of presenting the shop.
 
 ## License
 
-PROPRIETARY LICENSE — ALL RIGHTS RESERVED
-
-Copyright (c) 2026 [COPYRIGHT HOLDER — confirm whether this should be the developer or the business owner]
-
-All rights reserved.
-
-This repository and its contents, including but not limited to source code, design, layout, text, graphics, branding, documentation, and other materials (the "Materials"), are protected by applicable intellectual property laws.
-
-No permission is granted to any person or organization to copy, reproduce, modify, adapt, publish, distribute, sublicense, sell, create derivative works from, or otherwise use the Materials, in whole or in part, without prior written permission from the applicable copyright holder.
-
-Access to this public repository is provided for viewing and reference only. Public availability on GitHub does not constitute a license or transfer of ownership.
-
-Third-party trademarks, logos, fonts, and other assets are owned by their respective rights holders and are not licensed by this notice.
-
-THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
-
-For permission requests, contact: [ADD PERMISSION CONTACT EMAIL]
-
-IMPORTANT: Replace the copyright-holder and contact placeholders before publishing. Confirm in writing with the business owner who owns the website and its commissioned materials. This template is not legal advice.
-
-
 Unless a separate written agreement says otherwise, this project is distributed under the **All Rights Reserved** terms in the `LICENSE` file. Viewing this public repository does not grant permission to copy, modify, redistribute, or commercially use its code, content, design, or branding.
 
 The business name and any third-party trademarks, logos, or assets remain subject to their respective rights holders.
-
 
 ## Acknowledgements
 
