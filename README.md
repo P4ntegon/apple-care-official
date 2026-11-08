@@ -95,9 +95,10 @@ Review these details before deploying or sharing the site:
 
 Add screenshots to a folder such as `screenshots/`, then embed them here:
 
-```md
-![Homepage screenshot](screenshots/homepage.png)
-```
+
+<img width="1906" height="966" alt="{00A882F6-B333-4C00-A319-C278F00F5EE3}" src="https://github.com/user-attachments/assets/6a990f7c-abb0-4ba7-915c-1bfc9c13c6e2" />
+
+
 
 ## Deployment
 
@@ -121,8 +122,8 @@ Do not enter sensitive personal information into a repair or training request. R
 Designed and developed by **P4NTEGON**.
 
 - GitHub: [@p4ntegon](https://github.com/p4ntegon)
-- Portfolio: [Add your portfolio URL]
-- Contact: [Add your preferred public contact]
+- Portfolio: https://github.com/P4ntegon
+- Contact: ashikbillahabid07@gmail.com
 
 I build modern front-end websites using HTML, CSS, JavaScript, and AI-assisted development workflows.
 
