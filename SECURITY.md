@@ -5,7 +5,7 @@ Reporting a vulnerability
 Please do not publish sensitive security details in a public issue.
 Contact the repository maintainer privately:
 GitHub: @p4ntegon
-Email: [ADD A PUBLIC SECURITY CONTACT EMAIL]
+Email: ashikbillahabid07@gmail.com
 Include:
 A brief description of the issue
 Steps to reproduce it
