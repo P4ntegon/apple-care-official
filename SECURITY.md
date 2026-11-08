@@ -6,6 +6,7 @@ Please do not publish sensitive security details in a public issue.
 Contact the repository maintainer privately:
 
 GitHub: @p4ntegon
+
 Email: ashikbillahabid07@gmail.com
 
 Include:
