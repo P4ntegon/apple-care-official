@@ -47,9 +47,9 @@ This is a lightweight, static front-end website built with standard web technolo
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/p4ntegon/REPOSITORY-NAME.git
-   ```
+ ```bash
+ git clone https://github.com/p4ntegon/REPOSITORY-NAME.git
+ ```
 
 2. Open the project folder.
 3. Open `index.html` in your browser.
