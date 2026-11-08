@@ -14,6 +14,6 @@ Third-party trademarks, logos, fonts, and other assets are owned by their respec
 
 THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
 
-For permission requests, contact: [ADD PERMISSION CONTACT EMAIL]
+For permission requests, contact: ashikbillahabid07@gmail.com
 
 IMPORTANT: Replace the copyright-holder and contact placeholders before publishing. Confirm in writing with the business owner who owns the website and its commissioned materials. This template is not legal advice.
